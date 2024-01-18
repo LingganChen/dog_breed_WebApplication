@@ -1,5 +1,8 @@
 # DogBreed Classification Project
+# Preview
 ![dd1ff333468954f2bb6cd6a0cfaaa1c](https://github.com/LingganChen/dog_breed_WebApplication/assets/124526469/b68aea97-27cc-4f6b-b0d8-af4c8a103e3c)
+![ea91f5331962168b4ca36deb7926623](https://github.com/LingganChen/dog_breed_WebApplication/assets/124526469/022bd4d2-14dc-4ae5-93b1-d4171ad1f970)
+![d7284f66163cd06ab8868116aeec517](https://github.com/LingganChen/dog_breed_WebApplication/assets/124526469/7b7982a2-4a1f-4e55-abe0-201dc9d16f73)
 
 ## Overview
 
