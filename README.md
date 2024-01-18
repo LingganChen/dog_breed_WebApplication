@@ -20,23 +20,24 @@ To run this project locally, follow these steps:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/LingganChen/DogBreed.git
-    cd DogBreed
+    git clone https://github.com/LingganChen/dog_breed_WebApplication.git
+    cd dog_breed_WebApplication
     ```
-
-2. Install the required dependencies:
-
+2. Set up environment py -m venv .env
+3. Activate environment .env\scripts\activate   
+4. Install the required dependencies:
     ```bash
     pip install -r requirements.txt
     ```
 
-3. Download the pre-trained InceptionV3 model weights.
-
 ## Usage
 
 1. Ensure you have the required dataset.
-2. Run the main.py
-
+2. Set up environment py -m venv .env
+3. Activate environment .env\scripts\activate  
+4. Run application using- flask run
+5. Select an image and submit
+   
 ## Dataset
 
 The dataset used for this project includes images of over 70 different dog breeds. It is sourced from Kaggle(https://www.kaggle.com/datasets/gpiosenka/70-dog-breedsimage-data-set/data), and it is preprocessed to be compatible with the InceptionV3 model.
