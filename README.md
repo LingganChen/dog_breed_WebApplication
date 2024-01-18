@@ -33,10 +33,11 @@ To run this project locally, follow these steps:
 ## Usage
 
 1. Ensure you have the required dataset.
-2. Set up environment py -m venv .env
+2. Set up environment in cmd: py -m venv .env
 3. Activate environment .env\scripts\activate  
 4. Run application using- flask run
-5. Select an image and submit
+5. Open the local html link in cmd
+6. Once you are on the web page, select an image and click on submit to see the prediction
    
 ## Dataset
 
